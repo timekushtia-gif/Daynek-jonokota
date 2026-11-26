@@ -1,0 +1,6 @@
+{
+  "name": "Jonokotha — Social News & Citizen Journalism",
+  "description": "বাংলাদেশের স্থানীয় সংবাদ, নাগরিক সাংবাদিকতা, কন্টেন্ট ক্রিয়েটর মনিটাইজেশন এবং কমিউনিটি নিউজ প্ল্যাটফর্ম।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
